@@ -2,13 +2,8 @@ package prueba;
 import java.util.Scanner;
 public class PruebaPractica {
 
-<<<<<<< HEAD
-	 //Cambio del alumno  1 (Nombre y Apellidos) 
-=======
-	 //Cambio del alumno 2 (Nombre y Apellidos) 
->>>>>>> rama «master» de https://github.com/AJPR00/RepositorioCompartirDesarrollo.git
-
-	// Constantes
+	
+// Constantes
 	private static final int EDAD_MAXIMA = 100;
 	private static final int LIMITE_NINNO = 12;
 	private static final int LIMITE_ADOLESCENTE = 17;
