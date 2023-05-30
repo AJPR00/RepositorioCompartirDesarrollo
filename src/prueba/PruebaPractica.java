@@ -1,7 +1,9 @@
 package prueba;
 import java.util.Scanner;
 public class PruebaPractica {
+
 	 //Cambio del alumno 1 (Nombre y Apellidos) 
+
 	// Constantes
 	private static final int EDAD_MAXIMA = 100;
 	private static final int LIMITE_NINNO = 12;
