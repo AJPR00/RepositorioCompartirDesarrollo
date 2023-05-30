@@ -4,7 +4,7 @@ public class PruebaPractica {
 
 
 
-	 //Cambio del alumno  1 (Nombre y Apellidos) 
+	 //Cambio del alumno  1  (Nombre y Apellidos) 
 
 	
 // Constantes
